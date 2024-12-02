@@ -48,7 +48,7 @@
 
    ```bash
    git clone https://github.com/nwanguma/flymate-api.git
-   cd flymate
+   cd flymate-api
    ```
 
 2. **Install dependencies:**
