@@ -76,7 +76,7 @@
 ## Project Structure
 
 ```
-flymate/
+flymate-api/
 ├── src/
 │   ├── core/
 │   │   ├── auth/                # Authentication module
